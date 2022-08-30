@@ -1,0 +1,7 @@
+const Button=({paragraph})=>{
+    return(
+        <paragraph className="pa">{paragraph}</paragraph>  
+    )
+}
+
+export default paragraph;
